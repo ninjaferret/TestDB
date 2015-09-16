@@ -1,4 +1,4 @@
-CREATE TABLE [dbo].[Test2]
+CREATE TABLE [dbo].[Test3]
 (
 [AnInt] [int] NOT NULL,
 [Text1] [text] COLLATE Latin1_General_CI_AS NULL,
