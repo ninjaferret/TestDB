@@ -1,0 +1,5 @@
+CREATE TABLE [dbo].[Test34261]
+(
+[AnInt] [int] NOT NULL
+) ON [PRIMARY]
+GO
