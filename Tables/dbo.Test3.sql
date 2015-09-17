@@ -4,6 +4,6 @@ CREATE TABLE [dbo].[Test3]
 [Text1] [text] COLLATE Latin1_General_CI_AS NULL,
 [SecondInt] [int] NULL,
 [ThirdInt] [int] NULL,
-[Decimal1] [decimal] NULL
+[Decimal2] [decimal] NULL
 ) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
 GO
